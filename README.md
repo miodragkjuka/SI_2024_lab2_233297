@@ -14,7 +14,7 @@
 -False & X & X          : item.price = 200; item.discount = -1; item.barcode = "1234"
 
 ### Тест случаи според критериумот Every path
-![Capture](https://github.com/miodragkjuka/SI_2024_lab2_233297/assets/135254432/5c6affd5-b26d-4037-8d3c-2e754a5d1ac1)
+![Capture](https://github.com/miodragkjuka/SI_2024_lab2_233297/assets/135254432/342bb15c-3f1a-4f09-b9be-d42e670a5959)
 
 ### Објаснување на напишаните unit tests
 Првично ги означив јазлите на CFG, пота го нацртав на Draw.io , ја надјов цикломатската комплексност и ги исполнив барањата за Multiple Condition tests и Every Path conditions. Потоа направив нов проект со build system Gradle и креирав тестови. 
