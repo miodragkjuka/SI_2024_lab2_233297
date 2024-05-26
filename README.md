@@ -1,5 +1,7 @@
 # Втора лабораториска вежба по Софтверско инженерство
 ## Миодраг Ќука, бр. на индекс 233297
+
+##Control Flow Graph
 ![SI_LAB2 0](https://github.com/miodragkjuka/SI_2024_lab2_233297/assets/135254432/3e43484c-4dea-41da-a886-47672425c408)
 
 ###Цикломатска комплексност
@@ -12,6 +14,7 @@
 -False & X & X          : item.price = 200; item.discount = -1; item.barcode = "1234"
 
 ### Тест случаи според критериумот Every path
+![Capture](https://github.com/miodragkjuka/SI_2024_lab2_233297/assets/135254432/5c6affd5-b26d-4037-8d3c-2e754a5d1ac1)
 
-Control Flow Graph
-
+### Објаснување на напишаните unit tests
+Првично ги означив јазлите на CFG, пота го нацртав на Draw.io , ја надјов цикломатската комплексност и ги исполнив барањата за Multiple Condition tests и Every Path conditions. Потоа направив нов проект со build system Gradle и креирав тестови. 
